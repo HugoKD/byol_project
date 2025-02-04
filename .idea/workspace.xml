@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0078c0f-d030-4356-9c6c-a6f5d3d361ff" name="Changes" comment="commit final">
+      <change beforePath="$PROJECT_DIR$/models/trained_byol_model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/models/trained_byol_model.pth" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HugoKD&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/armandmasseaugit/byol_project.git&quot;,
+    &quot;accountId&quot;: &quot;6428afa6-4430-49ce-87c3-7d4762a7cfdd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qR7bnWTi3ihOihQTFhZtTgk7b0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.predict.executor": "Run",
+    "Python.principal_DBN_alpha.executor": "Run",
+    "Python.principal_DNN_MNIST.executor": "Run",
+    "Python.principal_RBM_aplha.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/cadet/PycharmProjects/byol_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/byol/principal_RBL_alpha/datasets/raw" />
+      <recent name="$PROJECT_DIR$/byol/principal_RBL_alpha/datasets" />
+      <recent name="$PROJECT_DIR$/byol/principal_RBL_alpha/datasets/MNIST" />
+      <recent name="$PROJECT_DIR$/byol/modeling" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/byol/principal_RBL_alpha/datasets" />
+      <recent name="$PROJECT_DIR$/byol/modeling/data/raw/MNIST/raw" />
+      <recent name="$PROJECT_DIR$/byol/modeling" />
+      <recent name="$PROJECT_DIR$/byol/modeling/data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0078c0f-d030-4356-9c6c-a6f5d3d361ff" name="Changes" comment="" />
+      <created>1734613607552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734613607552</updated>
+      <workItem from="1734613608668" duration="2475000" />
+      <workItem from="1734734488198" duration="641000" />
+      <workItem from="1734874124793" duration="18000" />
+      <workItem from="1734972222216" duration="6000" />
+      <workItem from="1736250349049" duration="234000" />
+      <workItem from="1736963828373" duration="5433000" />
+      <workItem from="1737017236354" duration="6941000" />
+      <workItem from="1737025808071" duration="31000" />
+      <workItem from="1737359920181" duration="1733000" />
+      <workItem from="1738530634998" duration="165000" />
+      <workItem from="1738530886692" duration="3151000" />
+      <workItem from="1738573029418" duration="20902000" />
+      <workItem from="1738603707068" duration="3719000" />
+      <workItem from="1738662654788" duration="8889000" />
+      <workItem from="1738686005550" duration="462000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit final">
+      <option name="closed" value="true" />
+      <created>1738686209103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738686209103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit final" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit final" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/byol_project$principal_DNN_MNIST.coverage" NAME="principal_DNN_MNIST Coverage Results" MODIFIED="1738672122045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/byol/principal_RBL_alpha" />
+    <SUITE FILE_PATH="coverage/byol_project$predict.coverage" NAME="predict Coverage Results" MODIFIED="1738602271548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/byol/modeling" />
+    <SUITE FILE_PATH="coverage/byol_project$principal_RBM_aplha.coverage" NAME="principal_RBM_aplha Coverage Results" MODIFIED="1738583142071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/byol/principal_RBL_alpha" />
+    <SUITE FILE_PATH="coverage/byol_project$principal_DBN_alpha.coverage" NAME="principal_DBN_alpha Coverage Results" MODIFIED="1738604152824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/byol/principal_RBL_alpha" />
+  </component>
+</project>
